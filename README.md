@@ -5,5 +5,7 @@ Project may not work after a few semesters (depends on if school changes API end
 
 You can login/logout or browse as a guest
 
+Please note that this is a React Native application, and currently runs through Expo v52
+
 
 Originally created for school
